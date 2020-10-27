@@ -11,6 +11,7 @@ Winnipeg, MB, R3T3M2
 * Well-versed with technology
 * Dedicated to work and attends in a timely manner.
 * Able to identify problems and issues, while providing efficient solutions.
+
 ---
 ### Technical Skills
 #### Languages
