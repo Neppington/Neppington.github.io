@@ -32,7 +32,7 @@ Identifying problems, investigating, formulating and developing solutions
 **Promotions Coordinator** / University of Manitoba Anime Club  
 *September 2018 - May 2019; Winnipeg, MB, Canada*
 * Assisted club executive during club events by managing hardware or testing equipment
-*Managed recruitment tables and promoted club activities
+* Managed recruitment tables and promoted club activities
 
 **Vice President, Internal** / University of Manitoba Anime Club  
 *November 2017 - May 2018; Winnipeg, MB, Canada*
