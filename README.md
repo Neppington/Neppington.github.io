@@ -70,9 +70,12 @@ This versatility what drives the main principle of choosing GitHub, a DVCS, in m
 2. Select the **Settings** tab.
 3. Scroll below to find the **GitHub Pages** section in the Options submenu.
 4. Select the **Change theme** button.
+
 **RESULT**: You will be redirected to the theme changer page, displaying previews of what your site will look like.
+
 5. Select a theme that you like!
 6. Select **Select theme** once you're satisfied with the layout.
+
 **RESULT**: after a few minutes to let the site update, your website will have integrated with a Jekyll theme!
 
 ### More Resources
