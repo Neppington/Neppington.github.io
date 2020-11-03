@@ -72,6 +72,7 @@ Other than that, why static websites? Etter's take on the matter is pretty simpl
 
 Jekyll allows you to easily integrate static site components into your GitHub Page. That being said, we're not even using a *fraction* of it's potential! If you want to learn more about Jekyll's capabilities, refer to [More Resources](#more-resources) for a video series on the static site generator!
 
+Now, let's get to sprucing up your website!
 
 
 ### Integrating Jekyll themes with your GitHub Page
