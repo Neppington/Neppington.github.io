@@ -98,8 +98,9 @@ To truly make this page your own, let's make a simple change: editing the title 
 * [Andrew Etter's book on Amazon; go and support him!](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS)
 
 ## Authors and Acknowledgements
-[John Rohan, Template theme author](https://twitter.com/jonrohan/)  
-My groupmates in my COMP 3040 class, **Group 16**:
+* [John Rohan, Template theme author](https://twitter.com/jonrohan/)
+
+* My groupmates in my COMP 3040 class, **Group 16**:
    * Jaskeerat Singh
    * Ali Jasim
    * Zhi Zheng
