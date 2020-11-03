@@ -1,7 +1,7 @@
 # On Hosting your Resume on GitHub (and learning Technical Communication principles!)
 
 Are you looking for a **free, simple way** to host your resume online, and *be able to edit and update it on the fly*? This README tutorial will guide you through the process using the accessible, modern tools of GitHub Pages, Markdown, and Jekyll!  
-Along the way, you'll also gain some insight into the modern technical communication principles that helped bring this project to life: Andrew Etter, in his book *Modern Technical Writing: An Introduction to Software Documentation*, outlines the methodologies that influenced the usage of these specific tools that you will use to host your resume (and bolster your technical communication toolkit)! 
+You'll also gain some **insight into the modern technical communication principles** that helped bring this project to life: Andrew Etter, in his book *Modern Technical Writing: An Introduction to Software Documentation*, outlines the methodologies that influenced the usage of these specific tools that you will use to host your resume (*and bolster your technical communication toolkit*)! 
 
 **Important note:** this README tutorial will be taught using the ***GitHub's browser client.*** This tutorial will **not** cover the console client or the desktop client variants of GitHub.
 
@@ -26,12 +26,12 @@ Along the way, you'll also gain some insight into the modern technical communica
 ---
 
 ### Preface: GitHub
-To start, why are you using GitHub Pages to host your resume, anyway? The answer lies in the current state of the field of computer science, and the common tools that lead the industry. GitHub is known as a distributed control version system (DVCS), which, as Etter mentions, has become widely-used among computer scientists for its 
-* high performance, no-frills system of sharing and hosting of files
-* capability for offline work on hosted projects (just download the project to your local PC!)
+To start, why are you using GitHub Pages to host your resume, anyway? GitHub is known as a distributed control version system (DVCS), which, as Etter mentions, has become widely-used among computer scientists for its 
+* high performance system of sharing and hosting of files
+* capability for offline work on hosted projects 
 * ability to work concurrently with other contributors with ease 
 
-...That being said, **technical writers should use these same DVCSs since so many developers prefer utilizing them.** By using DVCSs, we can more closely work with software developers, allowing more opportunities for smoother contribution than if we used more centralized control systems. 
+By using DVCSs, we can more closely work with software developers, allowing more opportunities for smoother contribution than if we used more centralized control systems. 
 
 This versatility and accessibility is what drives the main principle of choosing GitHub, a DVCS, in modern technical communication, even though we may not make use of all of the available features that GitHub has to offer. Now, onto creating your first repository to host your resume!
 
@@ -90,7 +90,7 @@ To truly make this page your own, let's make a simple change: editing the title 
 4. Type in `title:` below the currently-used lines, and choose a title name (eg. "My resume site!").
 5. Select **Commit changes.**
 
-
+**Congratulations! Your site should now be completely set up and look stylish, to boot!**
 
 ### More Resources
 * [A quick Markdown tutorial](https://markdowntutorial.com)
@@ -98,5 +98,10 @@ To truly make this page your own, let's make a simple change: editing the title 
 * [Andrew Etter's book on Amazon; go and support him!](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS)
 
 ## Authors and Acknowledgements
+[John Rohan, Template theme author](https://twitter.com/jonrohan/)
+My groupmates in my COMP 3040 class, **Group 16**:
+   * Jaskeerat Singh
+   * Ali Jasim
+   * Zhi Zheng
 
 ## Frequently Asked Questions
