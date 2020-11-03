@@ -21,32 +21,41 @@ Along the way, you'll also gain some insight into the modern technical communica
     * Refer to [More Resources](#more-resources) for a relatively simple, online Markdown editor to use.
 
 ## Setup Process
-*This tutorial assumes that you have not made previous repositories (Git's encompassing your project and its history), and prefaces each **major** step with some relevant insight from Etter's software documentation principles.*
+*This tutorial assumes that you have not made previous repositories (Git's encompassing your project and its history), and **prefaces each major section** of the hosting process with some relevant insight from Etter's software documentation principles.*
 
-### Preface: Why GitHub?
+### Preface: GitHub
 To start, why are you using GitHub Pages to host your resume, anyway? The answer lies in the current state of the field of computer science, and the common tools that lead the industry. GitHub is known as a distributed control version system (DVCS), which, as Etter mentions, has become widely-used among computer scientists for it's performance, capability for offline work, and ability to work concurrently with other contributors.  
 ...That being said, **technical writers use these same DVCSs since developers prefer utilizing them.** By using DVCSs, we can more closely work with software developers, as well as allowing more opportunities for potential contributors than if we used more dedicated software documentation tools.
 
-With that out of the way, let's get to setting up 
+These core features of DVCSs are what drive the principle of using them so often. Now, let's get to setting yours up!
 
 
-### Creating your first repository
+#### Creating your first repository
 1. Login to your GitHub Account.
-2. Select the **New** button, found on your GitHub homepage.
+2. Select the **New** button, found on your GitHub homepage.  
+**RESULT**: You will be redirected to the repository creation page.
+
 3. Enter your repository name, ***which must start with your username and followed by `.github.io`***, as in this template:  
     `[your username].github.io`  
     * If you don't follow this **exact** format, your site won't display at all!
 4. Set your repository to **Public** by selecting the dialog option.
 5. Select **Create repository**.
 
-Congrats, with this you should have your first-ever repository up and running! 
+**RESULT:** Congrats, with this you should have your first-ever repository up and running! 
 
-### Setting up your repository files
-### 
+#### Setting up your repository files
+1. 
+
+
+### Preface: Jekyll
+
+#### Changing 
+
+
 ### More Resources
 * [A quick Markdown tutorial](https://markdowntutorial.com)
 * [Markdown Live Preview, a simple, online Markdown Editor](https://markdownlivepreview.com/)
-* [Andrew Etter's book on Amazon](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS)
+* [Andrew Etter's book on Amazon; go and support him!](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS)
 
 ## Authors and Acknowledgements
 
