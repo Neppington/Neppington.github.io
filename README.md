@@ -23,11 +23,17 @@ Along the way, you'll also gain some insight into the modern technical communica
 ## Setup Process
 *This tutorial assumes that you have not made previous repositories (Git's encompassing your project and its history), and **prefaces each major section** of the hosting process with some relevant insight from Etter's software documentation principles.*
 
-### Preface: GitHub
-To start, why are you using GitHub Pages to host your resume, anyway? The answer lies in the current state of the field of computer science, and the common tools that lead the industry. GitHub is known as a distributed control version system (DVCS), which, as Etter mentions, has become widely-used among computer scientists for it's performance, capability for offline work, and ability to work concurrently with other contributors.  
-...That being said, **technical writers use these same DVCSs since developers prefer utilizing them.** By using DVCSs, we can more closely work with software developers, as well as allowing more opportunities for potential contributors than if we used more dedicated software documentation tools.
+---
 
-These core features of DVCSs are what drive the principle of using them so often. Now, let's get to setting yours up!
+### Preface: GitHub
+To start, why are you using GitHub Pages to host your resume, anyway? The answer lies in the current state of the field of computer science, and the common tools that lead the industry. GitHub is known as a distributed control version system (DVCS), which, as Etter mentions, has become widely-used among computer scientists for its 
+* high performance, no-frills system of sharing and hosting of files
+* capability for offline work on hosted projects (just download the project to your local PC!)
+* ability to work concurrently with other contributors with ease 
+
+...That being said, **technical writers should use these same DVCSs since so many developers prefer utilizing them.** By using DVCSs, we can more closely work with software developers, allowing more opportunities for smoother contribution than if we used more centralized control systems. 
+
+This versatility what drives the main principle of choosing GitHub, a DVCS, in modern technical communication, even though we may not make use of all of the available features that GitHub has to offer. Leave that to the software developers! Now, onto creating your first repository to host your resume!
 
 
 #### Creating your first repository
@@ -43,9 +49,18 @@ These core features of DVCSs are what drive the principle of using them so often
 
 **RESULT:** Congrats, with this you should have your first-ever repository up and running! 
 
-#### Setting up your repository files
-1. 
+#### Integrating your resume and initializing your README
+1. Access your brand-new repository in your GitHub homepage.
+2. Select the **Add File** dropdown.
+    * **Ensure that your resume file is named `index.md`! If it isn't, it will not properly display on your hosted site!**
+    * Select **Upload new file** if you already have your .md formatted resume, and upload your file.
+3. Select the same **Add File** dropdown **upload** your **README.md**.
 
+**RESULT**: Your resume and README files should now be visible in your repository root!  
+
+You should now be able to see your resume on your GitHub Pages domain! Simply **enter your repository name as a website** and you'll be redirected to your hosted site! It won't look very interesting, though...
+
+---
 
 ### Preface: Jekyll
 
