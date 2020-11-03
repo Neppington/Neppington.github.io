@@ -1,7 +1,7 @@
 # On Hosting your Resume on GitHub (and learning a bit of Technical Communication!)
 
-Are you looking for a **free, simple way** to host your resume online, and *be able to edit and update it on the fly*? This README tutorial will guide you through the process using the accessible tools of GitHub Pages, Markdown, and Jekyll!  
-Along the way, you'll also gain some insight into the technical communication principles that helped bring this project to life: Andrew Etter, in his book *Modern Technical Writing: An Introduction to Software Documentation*, outlines the methodologies that influenced the usage of these specific tools that you will use to host your resume! 
+Are you looking for a **free, simple way** to host your resume online, and *be able to edit and update it on the fly*? This README tutorial will guide you through the process using the accessible, modern tools of GitHub Pages, Markdown, and Jekyll!  
+Along the way, you'll also gain some insight into the modern technical communication principles that helped bring this project to life: Andrew Etter, in his book *Modern Technical Writing: An Introduction to Software Documentation*, outlines the methodologies that influenced the usage of these specific tools that you will use to host your resume (and bolster your technical communication toolkit)! 
 
 **Important note:** this README tutorial will be taught using the ***GitHub's browser client.*** This tutorial will **not** cover the console client or the desktop client variants of GitHub.
 
@@ -21,10 +21,13 @@ Along the way, you'll also gain some insight into the technical communication pr
     * Refer to [More Resources](#more-resources) for a relatively simple, online Markdown editor to use.
 
 ## Setup Process
-This tutorial assumes that you have not made previous repositories (Git's encompassing your project and its history), and prefaces each step with some relevant insight from Etter's software documentation principles.  
-That said, why are we using GitHub Pages 
-### Creating your first repository
+*This tutorial assumes that you have not made previous repositories (Git's encompassing your project and its history), and prefaces each step with some relevant insight from Etter's software documentation principles.*
 
+### Introduction
+To start, why are we using GitHub Pages to host our resume, anyway? The answer lies in the current state of the field of computer science, and the common tools that lead the industry. GitHub is known as a distributed control version system (DVCS), which, as Etter mentions, has become widely-used among computer scientists for it's performance, capability for offline work, and ability to work concurrently with other contributors. Consequently, **technical writers use these same DVCSs since developers prefer utilizing them.**
+
+
+### Creating your first repository
 ### Setting up your repository
 ### 
 ### More Resources
