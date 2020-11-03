@@ -36,7 +36,7 @@ By using DVCSs, we can more closely work with software developers, allowing more
 This versatility and accessibility is what drives the main principle of choosing GitHub, a DVCS, in modern technical communication, even though we may not make use of all of the available features that GitHub has to offer. Now, onto creating your first repository to host your resume!
 
 
-#### Creating your first GitHub repository
+### Creating your first GitHub repository
 1. Login to your GitHub Account.
 2. Select the **New** button, found on your GitHub homepage.  
 **RESULT**: You will be redirected to the repository creation page.
@@ -49,7 +49,7 @@ This versatility and accessibility is what drives the main principle of choosing
 
 **RESULT:** With this, you should have your first GitHub repository active and available!
 
-#### Integrating your resume and initializing your README
+### Integrating your resume and initializing your README
 1. Access your brand-new repository through your GitHub homepage.
 2. Select the **Add File** dropdown.
     * **Ensure that your resume file is named `index.md`! If it isn't, it will not properly display on your hosted site!**
@@ -65,7 +65,7 @@ This versatility and accessibility is what drives the main principle of choosing
 
 ### Preface: Jekyll
 
-#### Integrating Jekyll themes with your GitHub Page
+### Integrating Jekyll themes with your GitHub Page
 1. Go to your repository homepage, found by selecting it on your GitHub homepage.
 2. Select the **Settings** tab.
 3. Scroll below to find the **GitHub Pages** section in the Options submenu.
@@ -78,7 +78,7 @@ This versatility and accessibility is what drives the main principle of choosing
 
 **RESULT**: after a few minutes to let the site update, your website will have integrated with a Jekyll theme!
 
-#### Modifying your Jekyll theme and making it your own
+### Modifying your Jekyll theme and making it your own
 To truly make this page your own, let's make a simple change: editing the title of your page.
 1. Return to your repository homepage.
    * Notice that a new file has been created in your repository root: `_config.yml`. This will be used to edit your Jekyll theme!
