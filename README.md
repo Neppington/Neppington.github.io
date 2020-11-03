@@ -50,6 +50,7 @@ This versatility and accessibility is what drives the main principle of choosing
 
 **RESULT:** With this, you should have your first GitHub repository active and available!
 
+
 ### Integrating your resume and initializing your README
 1. Access your brand-new repository through your GitHub homepage.
 2. Select the **Add File** dropdown.
@@ -102,6 +103,8 @@ To truly make this page your own, let's make a simple change: editing the title 
 5. Select **Commit changes.**
 
 ***Congratulations! Your site should now be completely set up and look stylish, to boot!***
+
+![resume](https://github.com/Neppington/neppington.github.io/blob/main/resume.gif)
 
 ---
 
