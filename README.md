@@ -33,7 +33,7 @@ To start, why are you using GitHub Pages to host your resume, anyway? The answer
 
 ...That being said, **technical writers should use these same DVCSs since so many developers prefer utilizing them.** By using DVCSs, we can more closely work with software developers, allowing more opportunities for smoother contribution than if we used more centralized control systems. 
 
-This versatility what drives the main principle of choosing GitHub, a DVCS, in modern technical communication, even though we may not make use of all of the available features that GitHub has to offer. Leave that to the software developers! Now, onto creating your first repository to host your resume!
+This versatility and accessibility is what drives the main principle of choosing GitHub, a DVCS, in modern technical communication, even though we may not make use of all of the available features that GitHub has to offer. Now, onto creating your first repository to host your resume!
 
 
 #### Creating your first GitHub repository
@@ -44,7 +44,7 @@ This versatility what drives the main principle of choosing GitHub, a DVCS, in m
 3. Enter your repository name, ***which must start with your username and followed by `.github.io`***, as in this template:  
     `[your username].github.io`  
     * If you don't follow this **exact** format, your site won't display at all!
-4. Set your repository to **Public** by selecting the dialog option.
+4. Set your repository to **Private** by selecting the dialog option.
 5. Select **Create repository**.
 
 **RESULT:** With this, you should have your first GitHub repository active and available!
@@ -77,6 +77,20 @@ This versatility what drives the main principle of choosing GitHub, a DVCS, in m
 6. Select **Select theme** once you're satisfied with the layout.
 
 **RESULT**: after a few minutes to let the site update, your website will have integrated with a Jekyll theme!
+
+#### Modifying your Jekyll theme and making it your own
+To truly make this page your own, let's make a simple change: editing the title of your page.
+1. Return to your repository homepage.
+   * Notice that a new file has been created in your repository root: `_config.yml`. This will be used to edit your Jekyll theme!
+2. Select the `_config.yml` file.
+
+**RESULT**: You will be redirected to the view/update page for the .yml file.
+
+3. Select the **pencil icon** found at the header of the code.
+4. Type in `title:` below the currently-used lines, and choose a title name (eg. "My resume site!").
+5. Select **Commit changes.**
+
+
 
 ### More Resources
 * [A quick Markdown tutorial](https://markdowntutorial.com)
