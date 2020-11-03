@@ -101,6 +101,8 @@ To truly make this page your own, let's make a simple change: editing the title 
 
 ***Congratulations! Your site should now be completely set up and look stylish, to boot!***
 
+---
+
 ### More Resources
 * [A quick Markdown tutorial](https://markdowntutorial.com)
 * [Markdown Live Preview, a simple, online Markdown Editor](https://markdownlivepreview.com/)
