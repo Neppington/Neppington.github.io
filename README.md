@@ -64,6 +64,7 @@ This versatility and accessibility is what drives the main principle of choosing
 ---
 
 ### Preface: Jekyll
+You may have noticed that, if you visit your current GitHub page, your layout looks... bland. Don't fret, as 
 
 ### Integrating Jekyll themes with your GitHub Page
 1. Go to your repository homepage, found by selecting it on your GitHub homepage.
