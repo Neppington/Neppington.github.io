@@ -1,6 +1,6 @@
 # On Hosting your Resume on GitHub (and learning Technical Communication principles!)
 
-Are you looking for a **free, simple way** to host your resume online, and *be able to edit and update it on the fly*? This README tutorial will guide you through the process using the accessible, modern tools of GitHub Pages, Markdown, and Jekyll!  
+Are you looking for a **free, simple way** to host your resume online, and *be able to edit and update it on the fly*? This README tutorial will guide you through the process using the accessible, modern tools of GitHub Pages (part of a DVCS), Markdown (an online text syntax), and Jekyll (a static site generator)!  
 You'll also gain some **insight into the modern technical communication principles** that helped bring this project to life: Andrew Etter, in his book *Modern Technical Writing: An Introduction to Software Documentation*, outlines the methodologies that influenced the usage of these specific tools that you will use to host your resume (*and bolster your technical communication toolkit*)! 
 
 **Important note:** this README tutorial will be taught using the ***GitHub's browser client.*** This tutorial will **not** cover the console client or the desktop client variants of GitHub.
@@ -27,11 +27,11 @@ You'll also gain some **insight into the modern technical communication principl
 
 ### Preface: GitHub
 To start, why are you using GitHub Pages to host your resume, anyway? GitHub is known as a distributed control version system (DVCS), which, as Etter mentions, has become widely-used among computer scientists for its 
-* high performance system of sharing, hosting, and updating files
+* high performance system of **sharing, hosting, and updating files**
 * capability for offline work on hosted projects 
-* ability to work concurrently with other contributors with ease 
+* ability to **work concurrently with other contributors with ease**
 
-By using DVCSs, technical writers can more closely work with software developers, allowing more opportunities for smoother contribution than if we used more centralized control systems. 
+By using DVCSs, technical writers are able to keep their documentation constantly up-to-date (relatively easily, mind you), and additionally allowing more accessible contributions among contributing members. 
 
 This versatility and accessibility is what drives the main principle of choosing GitHub, a DVCS, in modern technical communication, even though we may not make use of all of the available features that GitHub has to offer. Now, onto creating your first repository to host your resume!
 
@@ -64,7 +64,15 @@ This versatility and accessibility is what drives the main principle of choosing
 ---
 
 ### Preface: Jekyll
-You may have noticed that, if you visit your current GitHub page, your layout looks... bland. Don't fret, as 
+You may have noticed that, if you visit your current GitHub page, your layout looks... bland. Don't fret, as GitHub has Jekyll (a static site generator) integrations built-in! You'll be able to easily customize the look of your website in no time.
+Other than that, why static websites? Etter's take on the matter is pretty simple: static websites are **fast, simple, portable, and secure**: 
+* Static websites are **portable**, in which can be hosted almost everywhere (GitHub Pages included), and contain no dependencies on servers, databases, or applications. 
+* Since static sites *just serve page data,* there's no need to dynamically process any elements, making them **fast and digestible** for most computer hardware
+* Due to their **simple** strucuture, there are little to no exploitable components, making them **secure**
+
+Jekyll allows you to easily integrate static site components into your GitHub Page. That being said, we're not even using a *fraction* of it's potential! If you want to learn more about Jekyll's capabilities, refer to [More Resources](#more-resources) for a video series on the static site generator!
+
+
 
 ### Integrating Jekyll themes with your GitHub Page
 1. Go to your repository homepage, found by selecting it on your GitHub homepage.
@@ -91,12 +99,13 @@ To truly make this page your own, let's make a simple change: editing the title 
 4. Type in `title:` below the currently-used lines, and choose a title name (eg. *title: My resume site!*).
 5. Select **Commit changes.**
 
-**Congratulations! Your site should now be completely set up and look stylish, to boot!**
+***Congratulations! Your site should now be completely set up and look stylish, to boot!***
 
 ### More Resources
 * [A quick Markdown tutorial](https://markdowntutorial.com)
 * [Markdown Live Preview, a simple, online Markdown Editor](https://markdownlivepreview.com/)
 * [Andrew Etter's book on Amazon; go and support him!](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS)
+* [Video series tutorial on Jekyll](https://www.youtube.com/playlist?list=PLLAZ4kZ9dFpOPV5C5Ay0pHaa0RJFhcmcB)
 
 ## Authors and Acknowledgements
 * [John Rohan, Template theme author](https://twitter.com/jonrohan/)
