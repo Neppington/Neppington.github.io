@@ -27,11 +27,11 @@ You'll also gain some **insight into the modern technical communication principl
 
 ### Preface: GitHub
 To start, why are you using GitHub Pages to host your resume, anyway? GitHub is known as a distributed control version system (DVCS), which, as Etter mentions, has become widely-used among computer scientists for its 
-* high performance system of sharing and hosting of files
+* high performance system of sharing, hosting, and updating files
 * capability for offline work on hosted projects 
 * ability to work concurrently with other contributors with ease 
 
-By using DVCSs, we can more closely work with software developers, allowing more opportunities for smoother contribution than if we used more centralized control systems. 
+By using DVCSs, technical writers can more closely work with software developers, allowing more opportunities for smoother contribution than if we used more centralized control systems. 
 
 This versatility and accessibility is what drives the main principle of choosing GitHub, a DVCS, in modern technical communication, even though we may not make use of all of the available features that GitHub has to offer. Now, onto creating your first repository to host your resume!
 
@@ -87,7 +87,7 @@ To truly make this page your own, let's make a simple change: editing the title 
 **RESULT**: You will be redirected to the view/update page for the .yml file.
 
 3. Select the **pencil icon** found at the header of the code.
-4. Type in `title:` below the currently-used lines, and choose a title name (eg. "My resume site!").
+4. Type in `title:` below the currently-used lines, and choose a title name (eg. *title: My resume site!*).
 5. Select **Commit changes.**
 
 **Congratulations! Your site should now be completely set up and look stylish, to boot!**
@@ -105,3 +105,11 @@ My groupmates in my COMP 3040 class, **Group 16**:
    * Zhi Zheng
 
 ## Frequently Asked Questions
+
+### Why is Markdown better than a word processor?
+Word processors, as Etter puts it, are made "to create short, attractive PDFs that can be consumed and discarded. Markdown is far simpler to integrate and format into HTML, and blend very well with the constantly-updating environment that is DVCSs, where projects are constantly updated (consequently, the documentation must be constantly updated, too!).
+### Why is my resume not showing up?
+There can be many reasons, but here are a few suggestions:
+   * Check if you've properly labeled your repository as `[your username].github.io?`.
+   * Check if your resume file is properly named `index.md`, and formatted correctly.
+   * If you've *just* uploaded your files, wait for 5-10 minutes; GitHub takes some time to properly load everything, so try to be patient!
