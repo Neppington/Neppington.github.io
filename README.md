@@ -36,7 +36,7 @@ To start, why are you using GitHub Pages to host your resume, anyway? The answer
 This versatility what drives the main principle of choosing GitHub, a DVCS, in modern technical communication, even though we may not make use of all of the available features that GitHub has to offer. Leave that to the software developers! Now, onto creating your first repository to host your resume!
 
 
-#### Creating your first repository
+#### Creating your first GitHub repository
 1. Login to your GitHub Account.
 2. Select the **New** button, found on your GitHub homepage.  
 **RESULT**: You will be redirected to the repository creation page.
@@ -47,24 +47,25 @@ This versatility what drives the main principle of choosing GitHub, a DVCS, in m
 4. Set your repository to **Public** by selecting the dialog option.
 5. Select **Create repository**.
 
-**RESULT:** Congrats, with this you should have your first-ever repository up and running! 
+**RESULT:** With this, you should have your first GitHub repository active and available!
 
 #### Integrating your resume and initializing your README
-1. Access your brand-new repository in your GitHub homepage.
+1. Access your brand-new repository through your GitHub homepage.
 2. Select the **Add File** dropdown.
     * **Ensure that your resume file is named `index.md`! If it isn't, it will not properly display on your hosted site!**
     * Select **Upload new file** if you already have your .md formatted resume, and upload your file.
-3. Select the same **Add File** dropdown **upload** your **README.md**.
+3. Select the same **Add File** dropdown **upload** or **create** your **README.md**. (for now, this doesn't have to be filled with anything)
 
-**RESULT**: Your resume and README files should now be visible in your repository root!  
+**RESULT**: You should now be able to see your resume on your GitHub Pages domain! Simply **enter your repository name as a website** and you'll be redirected to your hosted site.  
 
-You should now be able to see your resume on your GitHub Pages domain! Simply **enter your repository name as a website** and you'll be redirected to your hosted site! It won't look very interesting, though...
+**Note**: Your GitHub Page may take **up to 5 minutes** to properly load any changes you make. 
+
 
 ---
 
 ### Preface: Jekyll
 
-#### Changing 
+#### Integrating Jekyll themes with your GitHub Page
 
 
 ### More Resources
