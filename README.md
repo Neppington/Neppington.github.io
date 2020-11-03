@@ -38,7 +38,8 @@ This versatility and accessibility is what drives the main principle of choosing
 
 ### Creating your first GitHub repository
 1. Login to your GitHub Account.
-2. Select the **New** button, found on your GitHub homepage.  
+2. Select the **New** button, found on your GitHub homepage. 
+
 **RESULT**: You will be redirected to the repository creation page.
 
 3. Enter your repository name, ***which must start with your username and followed by `.github.io`***, as in this template:  
