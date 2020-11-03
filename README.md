@@ -24,7 +24,8 @@ Along the way, you'll also gain some insight into the modern technical communica
 *This tutorial assumes that you have not made previous repositories (Git's encompassing your project and its history), and prefaces each step with some relevant insight from Etter's software documentation principles.*
 
 ### Introduction
-To start, why are we using GitHub Pages to host our resume, anyway? The answer lies in the current state of the field of computer science, and the common tools that lead the industry. GitHub is known as a distributed control version system (DVCS), which, as Etter mentions, has become widely-used among computer scientists for it's performance, capability for offline work, and ability to work concurrently with other contributors. Consequently, **technical writers use these same DVCSs since developers prefer utilizing them.**
+To start, why are we using GitHub Pages to host our resume, anyway? The answer lies in the current state of the field of computer science, and the common tools that lead the industry. GitHub is known as a distributed control version system (DVCS), which, as Etter mentions, has become widely-used among computer scientists for it's performance, capability for offline work, and ability to work concurrently with other contributors.  
+...That being said, **technical writers use these same DVCSs since developers prefer utilizing them.**
 
 
 ### Creating your first repository
