@@ -80,7 +80,7 @@ Now, onto creating your first repository to host your resume!
 > * Since static sites *just serve page data,* there's no need to dynamically process any elements, making them **fast and digestible** for most computer hardware
 > * Due to their structure, they're **secure and very easy to edit on the fly**
 >
-> These beneficial attributes of static websites are the what create this **principle of using static websites over other styles of content delivery**. In order to make anything more than basic static sites, Etter highly recommends utilizing a **static site generator**, such as Jekyll. Jekyll's basic functions that we'll make use of are **filling it with content (using your Markdown-formatted resume) and applying a theme (using the sample templated HTML and CSS provided by GitHub)**. For more advanced functionalities of Jekyll, refer to [More Resources](#more-resources) for a video series tutorial for it!
+> These beneficial attributes of static websites are the what create this **principle of using static websites over other styles of content delivery**. In order to make anything more than basic static sites, Etter highly recommends utilizing a **static site generator**, such as Jekyll. Jekyll's basic functions that we'll make use of are **filling it with content (using your Markdown-formatted resume) and applying a theme (using the sample template HTML and CSS provided by GitHub)**. For more advanced functionalities of Jekyll, refer to [More Resources](#more-resources) for a video series tutorial for it!
 
 Now, let's get to sprucing up your website!
 
@@ -123,7 +123,7 @@ To truly make this page your own, let's make a simple change: editing the title 
 * [Andrew Etter's book on Amazon](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS)
 * [Video series tutorial on Jekyll](https://www.youtube.com/playlist?list=PLLAZ4kZ9dFpOPV5C5Ay0pHaa0RJFhcmcB)
 
-## Authors and Acknowledgements
+## Authors and Acknowledgments
 * [John Rohan, Template theme author](https://twitter.com/jonrohan/)
 
 * My groupmates in my COMP 3040 class, **Group 16**:
