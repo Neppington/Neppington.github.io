@@ -8,6 +8,7 @@ You'll also gain some **insight into the modern technical communication principl
 ## Table of Contents
 * [Prerequisites](#prerequisites)
 * [Setup Process](#setup-process)
+* [Results](#results)
 * [Authors and Acknowledgements](#authors-and-acknowledgements)
 * [Frequently Asked Questions](#frequently-asked-questions)
 
@@ -109,7 +110,8 @@ To truly make this page your own, let's make a simple change: editing the title 
 
 ![title](https://github.com/Neppington/neppington.github.io/blob/main/title.gif)
 
-***Congratulations! Your site should now be completely set up and look stylish, like this sample (my own site) below!***
+## Results
+***Congratulations! Your site should now be completely set up and look stylish, like this sample (my own site) below!*** You're free to further look into [Jekyll](#more-resources) and make your site truly special!
 
 ![resume](https://github.com/Neppington/neppington.github.io/blob/main/resume.gif)
 
