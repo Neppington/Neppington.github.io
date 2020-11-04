@@ -34,7 +34,7 @@ You'll also gain some **insight into the modern technical communication principl
 >
 > By using DVCSs, technical writers are able to keep their documentation constantly up-to-date and encourages more accessible contributions among many different project authors! 
 >
->This versatility and accessibility is what drives the main **principle of choosing GitHub, a DVCS, in modern technical communication, even though we may not make use of all of the available features that GitHub has to offer**. 
+>This versatility and accessibility is what drives the main **principle of choosing a DVCS (in your case, GitHub) in modern technical communication, even though we may not make use of all of the available features that it may offer**. 
 
 Now, onto creating your first repository to host your resume!
 
