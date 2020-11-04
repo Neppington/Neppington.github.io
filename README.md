@@ -56,9 +56,8 @@ Now, onto creating your first repository to host your resume!
 ### Integrating your resume into your site
 1. Access your brand-new repository through your GitHub homepage.
 2. Start by selecting the **Upload an existing file** option.
-3. Select **Choose your files**, and select your Markdown-formatted resume to upload.
+3. Select **Choose your files**, and pick your Markdown-formatted resume to upload.
     * **Ensure that your resume file is named `index.md`! If it isn't, it will not properly display on your hosted site!**
-    * Select **Upload new file** if you already have your .md formatted resume, and upload your file.
     
 ![upload](https://github.com/Neppington/neppington.github.io/blob/main/upload.gif) 
 
