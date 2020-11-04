@@ -43,7 +43,7 @@ Now, onto creating your first repository to host your resume!
 1. Login to your GitHub Account.
 2. Access the plus-sign (+) dropdown menu on the top right, and select **New Repository**. 
 
-![gif goes here]() 
+![newrepo](https://github.com/Neppington/neppington.github.io/blob/main/newrepo.gif) 
 
 3. Enter your repository name, ***which must start with your username and followed by `.github.io`***, as in this template:  
     `[your username].github.io`  
@@ -51,7 +51,7 @@ Now, onto creating your first repository to host your resume!
 4. Set your repository to **Public** by selecting the dialog option.
 5. Scroll down and select **Create repository**.
 
-![gif goes here]() 
+![reponame](https://github.com/Neppington/neppington.github.io/blob/main/reponame.gif) 
 
 ### Integrating your resume into your site
 1. Access your brand-new repository through your GitHub homepage.
@@ -60,7 +60,7 @@ Now, onto creating your first repository to host your resume!
     * **Ensure that your resume file is named `index.md`! If it isn't, it will not properly display on your hosted site!**
     * Select **Upload new file** if you already have your .md formatted resume, and upload your file.
     
-![gif goes here]() 
+![upload](https://github.com/Neppington/neppington.github.io/blob/main/upload.gif) 
 
 **Note**: Your GitHub Page may take **up to 5 minutes** to properly load any changes you make. 
 
@@ -87,7 +87,7 @@ Now, let's get to sprucing up your website!
 5. Select a theme that you like!
 6. Select **Select theme** once you're satisfied with the layout.
 
-![gif goes here]() 
+![theme](https://github.com/Neppington/neppington.github.io/blob/main/theme.gif) 
 
 ### Modifying your site theme and making it your own
 To truly make this page your own, let's make a simple change: editing the title of your page.
@@ -98,7 +98,7 @@ To truly make this page your own, let's make a simple change: editing the title 
 4. Type in `title:` below the currently-used lines, and choose a title name (eg. *title: My resume site!*).
 5. Select **Commit changes.**
 
-![gif goes here]() 
+![title](https://github.com/Neppington/neppington.github.io/blob/main/title.gif)
 
 ***Congratulations! Your site should now be completely set up and look stylish, to boot!***
 
