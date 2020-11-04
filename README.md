@@ -41,7 +41,7 @@ Now, onto creating your first repository to host your resume!
 
 ### Creating your first GitHub repository
 1. Login to your GitHub Account.
-2. Select the **New** button, found on your GitHub homepage. 
+2. Access the plus-sign (+) dropdown menu on the top right, and select **New Repository**. 
 
 ![gif goes here]() 
 
@@ -49,22 +49,22 @@ Now, onto creating your first repository to host your resume!
     `[your username].github.io`  
     * If you don't follow this **exact** format, your site won't display at all!
 4. Set your repository to **Public** by selecting the dialog option.
-5. Select **Create repository**.
+5. Scroll down and select **Create repository**.
 
 ![gif goes here]() 
 
-
-### Integrating your resume and initializing your README
+### Integrating your resume into your site
 1. Access your brand-new repository through your GitHub homepage.
-2. Select the **Add File** dropdown.
+2. Start by selecting the **Upload an existing file** option.
+3. Select **Choose your files**, and select your Markdown-formatted resume to upload.
     * **Ensure that your resume file is named `index.md`! If it isn't, it will not properly display on your hosted site!**
     * Select **Upload new file** if you already have your .md formatted resume, and upload your file.
-3. Select the same **Add File** dropdown **upload** or **create** your **README.md**. (for now, this doesn't have to be filled with anything)
-
+    
 ![gif goes here]() 
 
 **Note**: Your GitHub Page may take **up to 5 minutes** to properly load any changes you make. 
 
+*Aside*: If you want to write your own documentation for this site, feel free to upload a Markdown-formatted **README.md** to your repository!
 
 ---
 
@@ -74,7 +74,7 @@ Now, onto creating your first repository to host your resume!
 > * Since static sites *just serve page data,* there's no need to dynamically process any elements, making them **fast and digestible** for most computer hardware
 > * Due to their structure, they're **secure and very easy to edit on the fly**
 >
-> These beneficial attributes of static websites are the what create this **principle of using static websites over other styles of content delivery**. In order to make anything more than basic static sites, Etter highly recommends utilizing a **static site generator**, such as Jekyll. Jekyll's basic functions that we'll make use of are **filling it with content (using Markdown, our lightweight markup language of choice) and applying a theme (using the sample templated HTML and CSS provided by GitHub)**. For more advanced functionalities of Jekyll, refer to [More Resources](#more-resources) for a video series tutorial for it!
+> These beneficial attributes of static websites are the what create this **principle of using static websites over other styles of content delivery**. In order to make anything more than basic static sites, Etter highly recommends utilizing a **static site generator**, such as Jekyll. Jekyll's basic functions that we'll make use of are **filling it with content (using your Markdown-formatted resume) and applying a theme (using the sample templated HTML and CSS provided by GitHub)**. For more advanced functionalities of Jekyll, refer to [More Resources](#more-resources) for a video series tutorial for it!
 
 Now, let's get to sprucing up your website!
 
@@ -84,9 +84,6 @@ Now, let's get to sprucing up your website!
 2. Select the **Settings** tab.
 3. Scroll below to find the **GitHub Pages** section in the Options submenu.
 4. Select the **Change theme** button.
-
-![gif goes here]() 
-
 5. Select a theme that you like!
 6. Select **Select theme** once you're satisfied with the layout.
 
