@@ -41,7 +41,7 @@ Now, onto creating your first repository to host your resume!
 
 ### Creating your first GitHub repository
 1. Login to your GitHub Account.
-2. Access the plus-sign (+) dropdown menu on the top right, and select **New Repository**. 
+2. Access the plus-sign (+) dropdown menu on the top right of the site, and select **New Repository**. 
 
 ![newrepo](https://github.com/Neppington/neppington.github.io/blob/main/newrepo.gif) 
 
