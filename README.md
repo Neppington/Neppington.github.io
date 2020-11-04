@@ -111,8 +111,8 @@ To truly make this page your own, let's make a simple change: editing the title 
 
 ### More Resources
 * [A quick Markdown tutorial](https://markdowntutorial.com)
-* [Markdown Live Preview, a simple, online Markdown Editor](https://markdownlivepreview.com/)
-* [Andrew Etter's book on Amazon; go and support him!](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS)
+* [Markdown Live Preview](https://markdownlivepreview.com/)
+* [Andrew Etter's book on Amazon](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS)
 * [Video series tutorial on Jekyll](https://www.youtube.com/playlist?list=PLLAZ4kZ9dFpOPV5C5Ay0pHaa0RJFhcmcB)
 
 ## Authors and Acknowledgements
@@ -126,7 +126,7 @@ To truly make this page your own, let's make a simple change: editing the title 
 ## Frequently Asked Questions
 
 ### Why is Markdown better than a word processor?
-Word processors, as Etter puts it, are made "to create short, attractive PDFs that can be consumed and discarded. Markdown is far more compatible with HTML formats, and provides the basis for content delivery for static site generators and DVCSs! 
+Within the context of software documentation, Markdown is a far better in formatting and updating published content. Word processors, as Etter puts it, are made "to create short, attractive PDFs that can be consumed and discarded. Markdown provides the basis for content delivery for static site generators and DVCSs, encourages more frequent contribution opportunities by being easy-to-learn, and is relatively simple to update!
 ### Why is my resume not showing up?
 There can be many reasons, but here are a few suggestions:
    * Check if you've properly labeled your repository as `[your username].github.io?`.
