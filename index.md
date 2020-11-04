@@ -1,9 +1,7 @@
 ### Matthew de la Torre
-343 - 99 Dalhousie Drive  
-Winnipeg, MB, R3T3M2
 
-**204-557-2120**  
-**delatorrematthew912@gmail.com**
+**Student#: 7837464**
+**delatoml@myumanitoba.ca**
 
 ---
 ### Soft Skills
