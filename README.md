@@ -34,7 +34,7 @@ You'll also gain some **insight into the modern technical communication principl
 >
 > By using DVCSs, technical writers are able to keep their documentation constantly up-to-date and encourages more accessible contributions among many different project authors! 
 >
->This versatility and accessibility is what drives the main principle of choosing GitHub, a DVCS, in modern technical communication, even though we may not make use of all of the available features that GitHub has to offer. 
+>This versatility and accessibility is what drives the main **principle of choosing GitHub, a DVCS, in modern technical communication, even though we may not make use of all of the available features that GitHub has to offer**. 
 
 Now, onto creating your first repository to host your resume!
 
@@ -69,18 +69,17 @@ Now, onto creating your first repository to host your resume!
 ---
 
 ### Preface: Static websites, and Jekyll
-> You may have noticed that, if you visit your current GitHub page, your layout looks... bland. Don't fret, as GitHub has Jekyll (a static site generator) capabilities built-in! You'll be able to easily customize the look of your website in no time.
->Other than that, why static websites? Etter's take on the matter is pretty simple: static websites are **fast, simple, portable, and secure**: 
+> Why static websites? Etter's take on the matter is pretty simple: static websites are **fast, simple, portable, and secure**: 
 > * Static websites are **portable**, in which can be hosted almost everywhere (GitHub Pages included), and contain no dependencies on servers, databases, or applications. 
 > * Since static sites *just serve page data,* there's no need to dynamically process any elements, making them **fast and digestible** for most computer hardware
 > * Due to their structure, they're **secure and very easy to edit on the fly**
 >
-> These beneficial attributes of static websites are the what create this principle of using static websites over other styles of content delivery. In order to make anything more than basic static sites, Etter highly recommends utilizing a **static site generator**, such as Jekyll. Jekyll's basic functions that we'll make use of are filling it with content (using Markdown, our lightweight markup language of choice) and applying a theme (using the sample templated HTML and CSS provided by GitHub). For more advanced functionalities of Jekyll, refer to [More Resources](#more-resources) for a video series tutorial for it!
+> These beneficial attributes of static websites are the what create this **principle of using static websites over other styles of content delivery**. In order to make anything more than basic static sites, Etter highly recommends utilizing a **static site generator**, such as Jekyll. Jekyll's basic functions that we'll make use of are **filling it with content (using Markdown, our lightweight markup language of choice) and applying a theme (using the sample templated HTML and CSS provided by GitHub)**. For more advanced functionalities of Jekyll, refer to [More Resources](#more-resources) for a video series tutorial for it!
 
 Now, let's get to sprucing up your website!
 
 
-### Integrating Jekyll themes with your GitHub Page
+### Integrating site themes with your GitHub Page
 1. Go to your repository homepage.
 2. Select the **Settings** tab.
 3. Scroll below to find the **GitHub Pages** section in the Options submenu.
